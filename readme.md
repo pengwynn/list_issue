@@ -13,7 +13,7 @@
 
 ## screenshot of it:
 
-![screenshot](https://github.com/ypocat/list_issue/blob/master/screenshot.png)
+![screenshot](https://raw.github.com/ypocat/list_issue/master/screenshot.png)
 
 ## how should it look
 
